@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-vector/90s-retro-vaporwave-aesthetics-digital-screen-user-interface-cute-old-computer-ui-elements-nostalgic-pc-icons-dialog-boxes-vector-set-illustration-computer-screen-90s_461812-1420.jpg?w=900)
+![MasterHead](https://img.freepik.com/premium-vector/90s-retro-vaporwave-aesthetics-digital-screen-user-interface-cute-old-computer-ui-elements-nostalgic-pc-icons-dialog-boxes-vector-set-illustration-computer-screen-90s_461812-1420.jpg?w=900)
 
 <h1 align="center">Hi 👋, I'm Betül Toyoğlu</h1>
 
