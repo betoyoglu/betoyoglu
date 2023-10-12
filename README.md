@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Betül Toyoğlu</h1>
-[![MasterHead] (https://media.istockphoto.com/id/1383447162/tr/vekt%C3%B6r/90s-retro-vaporwave-aesthetics-digital-screen-user-interface-cute-old-computer-ui-elements.jpg?s=612x612&w=0&k=20&c=S2iJsGWtzHQAWkuCtc-6lgH4C77VNTVFVv8qDdccC4s=)
-
+[![MasterHead][ (https://media.istockphoto.com/id/1383447162/tr/vekt%C3%B6r/90s-retro-vaporwave-aesthetics-digital-screen-user-interface-cute-old-computer-ui-elements.jpg?s=612x612&w=0&k=20&c=S2iJsGWtzHQAWkuCtc-6lgH4C77VNTVFVv8qDdccC4s=)
+](https://as2.ftcdn.net/v2/jpg/05/10/94/89/1000_F_510948972_SFj1ImySSco9qPiwjdenI0heHSVU2K3W.jpg)
 <h3 align="center">A passionate Computer Engineering student from Turkey.</h3>
 
 - 📫 How to reach me **toyoglubetul@gmail.com**
