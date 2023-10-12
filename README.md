@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Betül Toyoğlu</h1>
-[![MasterHead](https://img.freepik.com/premium-vector/90s-retro-vaporwave-aesthetics-digital-screen-user-interface-cute-old-computer-ui-elements-nostalgic-pc-icons-dialog-boxes-vector-set-illustration-computer-screen-90s_461812-1420.jpg?w=900)
+[![MasterHead]([https://img.freepik.com/premium-vector/90s-retro-vaporwave-aesthetics-digital-screen-user-interface-cute-old-computer-ui-elements-nostalgic-pc-icons-dialog-boxes-vector-set-illustration-computer-screen-90s_461812-1420.jpg?w=900](https://www.freepik.com/premium-vector/90s-retro-vaporwave-aesthetics-digital-screen-user-interface-cute-old-computer-ui-elements-nostalgic-pc-icons-dialog-boxes-vector-set-illustration-computer-screen-90s_23897971.htm?epik=dj0yJnU9RTFWZk9nTXgxQ2xrbmVtUmhSVS1SMjFXQV9PcGRHcW4mcD0wJm49Z0ZvN0xaWEtMZHB0dXhxYlpyZzd1ZyZ0PUFBQUFBR1VvSks0))
 
 <h3 align="center">A passionate Computer Engineering student from Turkey.</h3>
 
