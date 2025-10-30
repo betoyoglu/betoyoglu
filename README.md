@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Betül Toyoğlu</h1>
 
-<h3 align="center">A passionate Computer Emgineer from Turkey.</h3>
+<h3 align="center">A passionate Computer Engineer from Turkey.</h3>
 
 - 📫 How to reach me **toyoglubetul@gmail.com**
 
